@@ -25,7 +25,7 @@ fun main(){
             "y mi peso es $flotante kilos")
 }*/
 
-//Tarea 3
+/*//Tarea 3
 fun main(){
     var num1 : Int = 10
     val num2 : Int = 33
@@ -39,4 +39,10 @@ fun main(){
     println("La suma de $num1, $num2, $num3 es $sumatoria")
     total = sumatoria / 3
     println("El promedio de $num1, $num2 y $num3 es $total")
+}*/
+
+
+
+fun showName(name: String): String{
+    return name
 }
